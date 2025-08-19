@@ -31,6 +31,7 @@ Me apasiona transformar datos en conocimiento útil para la toma de decisiones, 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorgeriverodelosrios/)
 
 
+
 - 📧 jorgeriverodelosrios@gmail.com  
 - 📍 Sevilla, España  
 
