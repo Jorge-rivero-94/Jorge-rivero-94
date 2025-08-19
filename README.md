@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jorge Rivero de los Ríos  
+# Hola, soy Jorge Rivero de los Ríos  
 
 🎯 **Data Scientist & AI | Background en Administración y Dirección**  
 
@@ -21,8 +21,8 @@ Me apasiona transformar datos en conocimiento útil para la toma de decisiones, 
 
 - 🌦️ **Predicciones Meteorológicas (AEMET)** → App en **Streamlit** para visualización y predicción de temperaturas, con proceso completo **ETL + SQL + ML supervisado**  
 - 🚢 **Titanic Dataset** → Modelos de clasificación (**Logistic Regression, Random Forest, SVM**) con métricas de evaluación y visualización  
-- 🗺️ **Visualización Geoespacial** → Mapas interactivos con **Folium** y **Plotly** para análisis exploratorio  
-- 💰 **Web Scraping Financiero** → Extracción y análisis de datos con **BeautifulSoup + Requests**  
+-  **Visualización Geoespacial** → Mapas interactivos con **Folium** y **Plotly** para análisis exploratorio  
+-  **Web Scraping Financiero** → Extracción y análisis de datos con **BeautifulSoup + Requests**  
 
 ---
 
@@ -33,4 +33,4 @@ Me apasiona transformar datos en conocimiento útil para la toma de decisiones, 
 - 📍 Sevilla, España  
 
 ---
-✨ Siempre abierto a colaborar en proyectos de **Data Science, Machine Learning e Inteligencia Artificial**.
+ Siempre abierto a colaborar en proyectos de **Data Science, Machine Learning e Inteligencia Artificial**.
